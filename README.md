@@ -1,5 +1,4 @@
 # kosombe_2019
-___
 
 ## Development of Image-Based Human Anti-Collision Network for Robot Navigation using Deep learning
 
