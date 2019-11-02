@@ -1,9 +1,9 @@
 # kosombe_2019
 ___
 
-### Development of Image-Based Human Anti-Collision Network for Robot Navigation using Deep learning
+## Development of Image-Based Human Anti-Collision Network for Robot Navigation using Deep learning
 
-#### Abstract
+### Abstract
  This study proposes a method for predicting the robot actions, whether robot to stop or go, with human position using deep learning. We used VGG16 network which was pre-trained by Imagenet dataset. Labels which were pre-processed with human pose data extracted from ‘OpenPose’ are used for input data with raw images. For predicting robot’s actions, labels were defined based on the viewing angle of robot. This trained network predicted the robot's actions with test accuracy up to 86.21%. In addition, this method can be applied to detect a human position to derive various robot actions.
 
 ___
